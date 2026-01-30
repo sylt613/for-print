@@ -4,9 +4,10 @@ Hebrew Sefer PDFs ready for printing.
 
 ## Files
 
-- **shortened_by_aron.pdf** - Main version
-- **shortened_by_aron_onepage.pdf** - Single page layout  
-- **shortened_by_aron_diff.pdf** - Diff version
+- **shortened_by_aron.pdf** (34 KB) - Main version
+- **shortened_by_aron_onepage.pdf** (27 KB) - Single page layout  
+- **shortened_by_aron_diff.pdf** (32 KB) - Diff version
+- **shortened_by_aron_diff_leftsig.pdf** (32 KB) - Diff version with left signature
 
 ## Format
 
